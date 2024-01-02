@@ -1,10 +1,10 @@
 <h1>Microsoft-Future-Ready-Talent-Virtual-Internship-Project</h1>
-<h2>Project Title:</h2><b><a href="https://aiwebappazure.azurewebsites.net/">"AITranslatorHub" could potentially represent a personalized translation platform offering diverse language services, facilitating seamless communication across various cultures and languages</b></a>
+<h2>Project Title:</h2><b><a href="https://aiwebappazure.azurewebsites.net/">"UniVerseText" could potentially represent a personalized translation platform offering diverse language services, facilitating seamless communication across various cultures and languages</b></a>
 <br>
 <h2>Project Details</h2>
-<b>Project Demo URL :</b> https://myazurewebap.azurewebsites.net/ <br>
-<b>Demo Video URL :</b> https://drive.google.com/file/d/1bLptg01EM3NtTRZY6j6X_FCmrwf_2TN9/view <br>
-<b>Github Repository URL :</b> https://github.com/ChavanVaishu18/AITranslateHub.git <br>
+<b>Project Demo URL :</b> https://universetext.azurewebsites.net/ <br>
+<b>Demo Video URL :</b> ***************<br>
+<b>Github Repository URL :</b> https://github.com/VedantAdya/UniVerseText <br>
 <b>Industry :</b> Lifestyle and Technology<br>
 <h2>Azure Services Used</h2>
 <h3>
@@ -51,7 +51,7 @@ Azure AI Service <br>
 <h2>Screenshots</h2>
 <h3>Azure App Service</h3>
 <b>Description :</b><p align="justify">Azure App Service delivers a robust and adaptable hosting infrastructure for the Multilingual Content Hub. This service ensures smooth deployment processes and guarantees high availability, ultimately enhancing the overall user experience to its peak potential.</p>
-<img src="./Screenshorts/Webapp.png" alt="azure-app-service"></img><br>
+<img src="./" alt="azure-app-service"></img><br>
 
 <h3>Azure Databse for MySQL</h3>
 <b>Description :</b><p align="justify"> The project leverages Azure Database for MySQL to efficiently manage and store user interaction history. This relational database service ensures data consistency and supports quick retrieval of information.</p>

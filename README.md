@@ -2,7 +2,7 @@
 <h2>Project Title:</h2><b><a href="https://aiwebappazure.azurewebsites.net/">"UniVerseText" could potentially represent a personalized translation platform offering diverse language services, facilitating seamless communication across various cultures and languages</b></a>
 <br>
 <h2>Project Details</h2>
-<b>Project Demo URL :</b> https://universetext.azurewebsites.net/ <br>
+<b>Project Demo URL :</b> https://universetext.azurewebsites.net/<br>
 <b>Demo Video URL :</b> ***************<br>
 <b>Github Repository URL :</b> https://github.com/VedantAdya/UniVerseText <br>
 <b>Industry :</b> Lifestyle and Technology<br>

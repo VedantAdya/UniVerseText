@@ -9,9 +9,9 @@ from flask import Flask, redirect, url_for, request, render_template, session
 app = Flask(__name__)
 
 mydb = mysql.connector.connect(
-  host="aayudb.mysql.database.azure.com",
-  user="aayushi",
-  password="dhanu@123",
+  host="myazsqldbsvr.mysql.database.azure.com",
+  user="mysqladmin@myazsqldbsvr",
+  password="Server@1",
   database="ai"
 )
 
